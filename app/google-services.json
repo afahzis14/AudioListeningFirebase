@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "517315496546",
+    "firebase_url": "https://exp-soal.firebaseio.com",
+    "project_id": "exp-soal",
+    "storage_bucket": "exp-soal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517315496546:android:456e66f2695f02279a5f3b",
+        "android_client_info": {
+          "package_name": "com.example.expsoal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517315496546-1knjsqp5opakhf3f5g0ngb11qtrf5tk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldBio9W97BeYFlNklhREzNk8bsw7kRco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517315496546-1knjsqp5opakhf3f5g0ngb11qtrf5tk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517315496546:android:444a7d9599e949029a5f3b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517315496546-taf776m5m93jp1vi9c6dh3k0bake0jig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "4a12f90a0cee18c7c05cff2ba7353b163af2f0a4"
+          }
+        },
+        {
+          "client_id": "517315496546-1knjsqp5opakhf3f5g0ngb11qtrf5tk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldBio9W97BeYFlNklhREzNk8bsw7kRco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517315496546-1knjsqp5opakhf3f5g0ngb11qtrf5tk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
